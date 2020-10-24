@@ -24,6 +24,9 @@ We print the sum of the array's elements, which is: 1+2+3+4+10+11=31
 char* readline();
 char** split_string(char*);
 
+
+
+
 /*
  * Complete the simpleArraySum function below.
  */
